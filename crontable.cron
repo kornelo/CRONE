@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30 8 * * 6 home/path/to/command/the_command.sh >/dev/null
+
+
+15 9 * * * /usr/bin/wget http://www.example.com/cron.php
